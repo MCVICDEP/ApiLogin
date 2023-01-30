@@ -1,0 +1,12 @@
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\bin\Debug\net5.0\apilogin.modelo.deps.json
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\bin\Debug\net5.0\apilogin.modelo.dll
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\bin\Debug\net5.0\ref\apilogin.modelo.dll
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\bin\Debug\net5.0\apilogin.modelo.pdb
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\obj\Debug\net5.0\apilogin.modelo.csproj.AssemblyReference.cache
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\obj\Debug\net5.0\apilogin.modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\obj\Debug\net5.0\apilogin.modelo.AssemblyInfoInputs.cache
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\obj\Debug\net5.0\apilogin.modelo.AssemblyInfo.cs
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\obj\Debug\net5.0\apilogin.modelo.csproj.CoreCompileInputs.cache
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\obj\Debug\net5.0\apilogin.modelo.dll
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\obj\Debug\net5.0\ref\apilogin.modelo.dll
+C:\Users\jcalderon\Desktop\PROYECTOS\ApiLogin\apilogin.modelo\obj\Debug\net5.0\apilogin.modelo.pdb
